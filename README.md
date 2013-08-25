@@ -1,0 +1,4 @@
+Algorithms
+==========
+
+Simple fun algorithms
